@@ -2,9 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Configurar el proyecto a tu entorno local
+
+Primero que nada, ejecutar el comando npm install para descargar las librerias que requiere el proyecto
+
+### `npm install`
+
+En el archivo Providers.js ubicado en la ruta "src/providers-main/" cambiar la ruta al puerto donde se ejecute tu API de Providers
+
+![alt text](./assets/Instrucciones1.png)
+
+En la misma carpeta, cambiar la ruta donde se ejecute el API del WebScrapper para cada petición GET con Axios
+
+![alt text](./assets/Instrucciones2.png)
+
 ## Available Scripts
 
-In the project directory, you can run:
+Para iniciar el proyecto, abre la terminal y escribe el comando: 
 
 ### `npm start`
 

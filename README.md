@@ -12,9 +12,9 @@ En el archivo Providers.js ubicado en la ruta "src/providers-main/" cambiar la r
 
 ![alt text](./assets/Instrucciones1.png)
 
-En la misma carpeta, cambiar la ruta donde se ejecute el API del WebScrapper para cada petición GET con Axios
+En el mismo archivo, cambiar la ruta donde se ejecute el API del WebScrapper para cada petición GET con Axios
 
-![alt text](./assets/Instrucciones2.png)
+![alt text](./assets/instrucciones2.png)
 
 ## Available Scripts
 
